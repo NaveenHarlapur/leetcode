@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/NaveenHarlapur/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/NaveenHarlapur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NaveenHarlapur/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
