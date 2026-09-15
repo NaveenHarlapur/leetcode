@@ -28,11 +28,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/NaveenHarlapur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/NaveenHarlapur/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0027-remove-element/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/NaveenHarlapur/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
