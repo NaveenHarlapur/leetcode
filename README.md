@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/NaveenHarlapur/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/NaveenHarlapur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/NaveenHarlapur/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NaveenHarlapur/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/NaveenHarlapur/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting
@@ -62,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/NaveenHarlapur/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -127,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NaveenHarlapur/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
