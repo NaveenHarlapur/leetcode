@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/NaveenHarlapur/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/NaveenHarlapur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
