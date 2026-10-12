@@ -6,11 +6,9 @@ class Solution {
         while(i<j){
             if(numbers[i]+numbers[j]==target){
                 return new int[]{i+1,j+1};
-            }
-            if(numbers[i]+numbers[j]>target){
+            }else if(numbers[i]+numbers[j]>target){
                 j--;
-            }
-            if(numbers[i]+numbers[j]<target){
+            }else{
                 i++;
             }
         }
