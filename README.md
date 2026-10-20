@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NaveenHarlapur/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/NaveenHarlapur/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/NaveenHarlapur/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NaveenHarlapur/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/NaveenHarlapur/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3870-count-commas-in-range](https://github.com/NaveenHarlapur/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/NaveenHarlapur/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/NaveenHarlapur/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/NaveenHarlapur/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
