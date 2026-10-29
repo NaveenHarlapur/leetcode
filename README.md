@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/NaveenHarlapur/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NaveenHarlapur/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NaveenHarlapur/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/NaveenHarlapur/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/NaveenHarlapur/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NaveenHarlapur/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/NaveenHarlapur/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaveenHarlapur/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
