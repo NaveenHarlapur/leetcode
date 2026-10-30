@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/NaveenHarlapur/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenHarlapur/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/NaveenHarlapur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
