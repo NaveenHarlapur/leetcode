@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/NaveenHarlapur/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/NaveenHarlapur/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1535-find-the-winner-of-an-array-game](https://github.com/NaveenHarlapur/leetcode/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaveenHarlapur/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NaveenHarlapur/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/NaveenHarlapur/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/NaveenHarlapur/leetcode/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenHarlapur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/NaveenHarlapur/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
