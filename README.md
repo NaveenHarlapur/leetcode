@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/NaveenHarlapur/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NaveenHarlapur/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NaveenHarlapur/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NaveenHarlapur/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/NaveenHarlapur/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
