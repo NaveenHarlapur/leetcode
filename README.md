@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/NaveenHarlapur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/NaveenHarlapur/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NaveenHarlapur/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NaveenHarlapur/leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
+| [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/NaveenHarlapur/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -326,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NaveenHarlapur/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
