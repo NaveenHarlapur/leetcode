@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/NaveenHarlapur/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
