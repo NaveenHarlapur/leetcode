@@ -1,9 +1,9 @@
 class Solution {
     public int thirdMax(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
-        int max1 = Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
-        int max3 = Integer.MIN_VALUE;
+        long max1 = Long.MIN_VALUE;
+        long max2 = Long.MIN_VALUE;
+        long max3 = Long.MIN_VALUE;
         for(int n:nums){
             set.add(n);
         }
@@ -20,8 +20,8 @@ class Solution {
             }
         }
         if(set.size()<3){
-            return max1;
+            return (int)max1;
         }
-        return max3;
+        return (int)max3;
     }   
 }
