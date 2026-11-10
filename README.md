@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NaveenHarlapur/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NaveenHarlapur/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/NaveenHarlapur/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NaveenHarlapur/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/NaveenHarlapur/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
