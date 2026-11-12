@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/NaveenHarlapur/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/NaveenHarlapur/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/NaveenHarlapur/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenHarlapur/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/NaveenHarlapur/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0832-flipping-an-image](https://github.com/NaveenHarlapur/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/NaveenHarlapur/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenHarlapur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NaveenHarlapur/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/NaveenHarlapur/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NaveenHarlapur/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NaveenHarlapur/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NaveenHarlapur/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/NaveenHarlapur/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/NaveenHarlapur/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/NaveenHarlapur/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/NaveenHarlapur/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/NaveenHarlapur/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/NaveenHarlapur/leetcode/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenHarlapur/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/NaveenHarlapur/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
