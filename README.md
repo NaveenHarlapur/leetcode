@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/NaveenHarlapur/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/NaveenHarlapur/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/NaveenHarlapur/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/NaveenHarlapur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/NaveenHarlapur/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/NaveenHarlapur/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NaveenHarlapur/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/NaveenHarlapur/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/NaveenHarlapur/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/NaveenHarlapur/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/NaveenHarlapur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NaveenHarlapur/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaveenHarlapur/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/NaveenHarlapur/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/NaveenHarlapur/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/NaveenHarlapur/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/NaveenHarlapur/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NaveenHarlapur/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
